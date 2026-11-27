@@ -1,0 +1,21 @@
+# The cholera surveillance data are covered by a non-disclosure agreement
+# (Cameroon Ministry of Public Health, Cameroon Red Cross, Netherlands Red Cross).
+# Never commit data or results derived from them.
+in/
+data/
+results/
+chirps/
+*.csv
+*.csv.gz
+*.xlsx
+*.nc
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.joblib
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
