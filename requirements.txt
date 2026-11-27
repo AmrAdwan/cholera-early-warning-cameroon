@@ -1,0 +1,14 @@
+# Python 3.11+. Versions used for the results in the paper.
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+scikit-learn==1.9.1
+xgboost==3.4.1
+lightgbm==4.7.0
+geopandas>=1.0
+shapely>=2.0
+pyogrio>=0.9
+xarray>=2024.1
+netCDF4>=1.7
+statsmodels>=0.14
+matplotlib>=3.9
